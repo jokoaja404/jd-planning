@@ -1,0 +1,20 @@
+RENCANA PROJEK JD :
+
+  * Membuat Portfolio di domain "jokoding.id".
+
+  * Membuat aplikasi Sistem Informasi Manajemen Desa
+    -> Sistem aplikasi yang memuat data penduduk pada suatu desa dengan standar kuisioner BPS mengenai status Sosial dan Ekonomi.
+    -> Membuat sistem formating data dalam pemberkasan masyarakat, yang nantinya fitur ini dikhususkan untuk role->operator pada kantor desa yang dimaksud.
+       Contoh : 1. Formating data surat pengantar
+                2. Formating data surat keterangan, dll.
+    
+   * Membuat Bundel Website
+     -> Form Bundel
+        1. Input (radio,select,checkbox,dll)
+        2. Label
+        3. Button
+        
+   * Membuat Website yang memuat informasi-informasi mengenai kabar berita maupun artikel.
+     -> infoparung.jokoding.id
+     -> infociseeng.jokoding.id
+     -> dll.
