@@ -18,3 +18,5 @@ RENCANA PROJEK JD :
      -> infoparung.jokoding.id
      -> infociseeng.jokoding.id
      -> dll.
+     
+   * Mo belajar Javascript sama Frameworknya sekalian hehe
